@@ -148,6 +148,7 @@ client
  
 ```
 ### Component Architecture
+https://whimsical.com/portfolio-component-hierarchy-XQdwcoC12xt9hUr1bkNBTe
 
 ## Server (Back End)
 ### ERD Model
