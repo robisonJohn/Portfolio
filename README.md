@@ -25,8 +25,44 @@ The server will have the following minimal functionality:
 The front-end will have the following minimal functionality:
 <ul>
   <li>Have a working, interactive <strong>React</strong> app, built using npx create-react-app</li>
+  <ul>
+    <li>Have at least 8 separate, rendered components in an organized and understandable React file structure.</li>
+    <li>Utilize functional or class React components appropriately</li>
+    <li>Utilize state and props in your components efficiently</li>
+    <li>Use <em>only</em> React (no vanilla js)</li>
+  </ul>
   <li>Consume data from <strong>Ruby on Rails API</strong> and render this data within the components.</li>
   <li>Utilize <strong>React Router</strong> for client-side routing</li>
   <li>Demonstrate Full CRUD actions (index, show, create, update, and delete) on the front end.</li>
+</ul>
+
+### Styling 
+<ul>
+  <li>Be styled with CSS.</li>
+  <li>Use Flexbox or Grid in layout design.</li>
+  <li>Implement 2 media queries for responsive design on 2 screen sizes (including desktop).</li>
+</ul>
+
+### Linting
+<ul>
+  <li>Indent properly.</li>
+  <li>Utilize high-quality, semantic variable names.</li>
+  <li>Follow camelCase, snake_case, or kebab-case convention.</li>
+  <li>Remove unnecessary boilerplate React files and code.</li>
+  <li>Remove all console.log() statements and commented out code that are not direct comments on present code blocks.</li>
+</ul>
+
+### Deployment
+<ul>
+  <li>Deploy fully-functional front-end via Netlify.</li>
+  <li>Deploy back-end via Heroku.</li>
+  <li>Deploy early and often.</li>
+</ul>
+
+### Procedural
+<ul>
+  <li>Initialize a <strong>git repo on Github</strong>, with a link to the hosted project.</li>
+  <li>Have <strong>frequent commits</strong>, making a <em>robust</em> commit history at least every day (75 commits minimum).</li>
+  <li>Use effective and safe <strong>branching and merging</strong> processes.</li>
 </ul>
 
