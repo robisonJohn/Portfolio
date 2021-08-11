@@ -143,6 +143,7 @@ client
   |__ Footer.jsx
 |__ services
   |__filter.js
+  |__apiConfig.js
  
 ```
 ### Component Architecture
@@ -152,10 +153,10 @@ client
 https://app.diagrams.net/#HrobisonJohn%2Fcoursera-test%2Fmain%2Fsite%2FERD%20Diagram%20Robison%20Portfolio.drawio
 
 ## Time Estimates
-| Task | Priority | Estimated Time | 
+| Task | Priority | Estimated Time (Hours) | 
 | ------ | ----------- | --------- | 
-| N | N | N |
-| N | N | N |
+| Planning and Ideation | H | 6 |
+|  | N | N |
 | N | N | N |
 | N | N | N |
 | N | N | N |
