@@ -144,6 +144,7 @@ client
 |__ services
   |__filter.js
   |__apiConfig.js
+  |__books.js
  
 ```
 ### Component Architecture
