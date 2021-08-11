@@ -110,9 +110,9 @@ The front-end will have the following minimal functionality:
 ### Libraries and Dependencies
 | Libraries | Dependencies |
 | ------ | ----------- |
-| React | Title       |
-| React Router | Description |
-| React Bootstrap | Description |
-| Axios | Description |
-| Rails | Description |
+| React | A front-end JavaScript UI for building a component-based architecture  |
+| React Router | A standard library for routing components in React |
+| React Bootstrap | A library for styling react components using the Bootstrap design philosophy |
+| Axios | A standard library used to import data from an API |
+| Rails | A web-application framework which allows you to create a database using the MVC pattern |
 
