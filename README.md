@@ -118,9 +118,33 @@ The front-end will have the following minimal functionality:
 
 ## Client (Front End)
 ### Wireframe
-
+https://www.figma.com/file/yQY4X4qz7VjwdeVKydyjHp/Project-4---Robison-Portfolio?node-id=0%3A1
 ### Component Tree
+This is how I expect my React file structure to look:
+```
 
+client
+|__ screens/
+  |__ Homepage.jsx
+  |__ Projects.jsx
+  |__ Writing.jsx
+  |__ Books.jsx
+    |__ScienceFiction.jsx
+    |__Mathematics.jsx
+    |__SocialScience.jsx
+    |__SocialScience.jsx
+    |__Business.jsx
+    |__OtherMedia.jsx
+  |__ BookDetail.jsx
+  |__ BookEdit.jsx
+  |__ BookNew.jsx
+|__ layout/
+  |__ Header.jsx
+  |__ Footer.jsx
+|__ services
+  |__filter.js
+ 
+```
 ### Component Architecture
 
 ## Server (Back End)
