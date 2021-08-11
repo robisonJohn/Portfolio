@@ -1,46 +1,7 @@
 # John Robison's Portfolio
 
 ## Overview
-John Robison's Portfolio is a full-stack application with the goal of effectively communicating my skills to potential employers. The application will have the following features:
-<ul>
-  <li>Successfully incorporate CRUD for the Book Screens</li>
-  <li>Utilize React-Bootstrap to create a smooth, minimalist design</li>
-  <li>Full functional and deployed front-end and back-end</li>
-  <li>13 screens, according to the following specifications</li>
-  <ul>
-    <li>Home Screen: Introduce John Robison and the general application to the user</li>
-    <li>Projects Screen: List my relevant projects, including the following: </li>
-    <ul>
-      <li>Community Table</li>
-      <li>Heal U</li>
-      <li>Velocity</li>
-      <li>Drone Wars</li>
-    </ul>
-    <li>Selected Writing Samples Screen: List key relevant writing samples to demonstrate my ability to communicate complex ideas</li>
-    <ul>
-      <li>On the Origin of Evil</li>
-      <li>Prime Numbers and Post-Modern Art</li>
-      <li>Rational Dragons</li>
-    </ul>
-    <li>Favorite Books</li>
-    <ul>
-      <li>Examine Book</li>
-      <ul>
-        <li>Edit Book</li>
-      </ul>
-      <li>Add New Book</li>
-      <li>Filter by:</li>
-      <ul>
-        <li>Mathematics and Physics</li>
-        <li>Computer Science</li>
-        <li>Social Sciences</li>
-        <li>Science Fiction</li>
-        <li>Entrepreneurship and Finance</li>
-        <li>Other Forms of Media (films, televsion shows, etc.) </li>
-      </ul>
-    </ul>
-  </ul>
-</ul>
+John Robison's Portfolio is a full-stack application with the goal of effectively communicating my skills to potential employers. It will consist of a homepage with my contact information and general contact information, General Assembly projects, math projects, writing samples, and favorite books. The favorite books section will have full CRUD functionality.
 
 The greatest challenges I expect to face will be using Ruby on Rails; we only just started learning rails, so I admit I have certain trepidations about building a full-stack application with this framework. That being said, I'm super excited to use this project as an opportunity to really understand the nuts and bolts of rails and determine exactly how I can most effectively use this tool to process data! Given my concern with Ruby, I also think time will pose a significant issue. With only four days to actually build this application, it isn't enough to simply "work harder." Rather, I will need to be <em>meticulous</em> in my planning to ensure no moment is wasted.
 
@@ -101,6 +62,48 @@ The front-end will have the following minimal functionality:
   <li>Have <strong>frequent commits</strong>, making a <em>robust</em> commit history at least every day (75 commits minimum).</li>
   <li>Use effective and safe <strong>branching and merging</strong> processes.</li>
 </ul>
+
+### Goals
+<ul>
+  <li>Successfully incorporate CRUD for the Book Screens</li>
+  <li>Utilize React-Bootstrap to create a smooth, minimalist design</li>
+  <li>Full functional and deployed front-end and back-end</li>
+  <li>13 screens, according to the following specifications</li>
+  <ul>
+    <li>Home Screen: Introduce John Robison and the general application to the user</li>
+    <li>Projects Screen: List my relevant projects, including the following: </li>
+    <ul>
+      <li>Community Table</li>
+      <li>Heal U</li>
+      <li>Velocity</li>
+      <li>Drone Wars</li>
+    </ul>
+    <li>Selected Writing Samples Screen: List key relevant writing samples to demonstrate my ability to communicate complex ideas</li>
+    <ul>
+      <li>On the Origin of Evil</li>
+      <li>Prime Numbers and Post-Modern Art</li>
+      <li>Rational Dragons</li>
+    </ul>
+    <li>Favorite Books</li>
+    <ul>
+      <li>Examine Book</li>
+      <ul>
+        <li>Edit Book</li>
+      </ul>
+      <li>Add New Book</li>
+      <li>Filter by:</li>
+      <ul>
+        <li>Mathematics and Physics</li>
+        <li>Computer Science</li>
+        <li>Social Sciences</li>
+        <li>Science Fiction</li>
+        <li>Entrepreneurship and Finance</li>
+        <li>Other Forms of Media (films, televsion shows, etc.) </li>
+      </ul>
+    </ul>
+  </ul>
+</ul>
+
 
 
 ### Libraries and Dependencies
