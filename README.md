@@ -108,7 +108,11 @@ The front-end will have the following minimal functionality:
 
 
 ### Libraries and Dependencies
-| Syntax | Description |
+| Libraries | Dependencies |
 | ------ | ----------- |
-| Header | Title       |
+| React | Title       |
+| React Router | Description |
+| React Bootstrap | Description |
+| Axios | Description |
+| Rails | Description |
 
