@@ -67,7 +67,7 @@ The front-end will have the following minimal functionality:
 <ul>
   <li>Successfully incorporate CRUD for the Book Screens</li>
   <li>Utilize React-Bootstrap to create a smooth, minimalist design</li>
-  <li>Full functional and deployed front-end and back-end</li>
+  <li>Fully functional and deployed front-end and back-end</li>
   <li>13 screens, according to the following specifications</li>
   <ul>
     <li>Home Screen: Introduce John Robison and the general application to the user</li>
