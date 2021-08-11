@@ -181,4 +181,5 @@ https://app.diagrams.net/#HrobisonJohn%2Fcoursera-test%2Fmain%2Fsite%2FERD%20Dia
 ## Post-MVP
 <ul>
   <li>Incorporate users and authentication</li>
+  <li>Build in a contact me section</li>
 </ul>
