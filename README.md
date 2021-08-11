@@ -157,9 +157,29 @@ https://app.diagrams.net/#HrobisonJohn%2Fcoursera-test%2Fmain%2Fsite%2FERD%20Dia
 ## Time Estimates
 | Task | Priority | Estimated Time (Hours) | 
 | ------ | ----------- | --------- | 
-| Planning and Ideation | H | 6 |
-|  | N | N |
-| N | N | N |
-| N | N | N |
-| N | N | N |
+| Set up M/V/C | H | 2 |
+| Create CRUD Actions | H | 3 |
+| Set up Endpoints | H | 4 |
+| Seed Database | H | 1 |
+| Build out React App | H | 1 |
+| Create CRUD Actions on Front-End | H | 2 |
+| Back-end Deployment | H | 1.5 |
+| Render Home Page & Minimal Styling | H | 3 |
+| Render Projects Page & Minimal Styling| H | 3 |
+| Render Writing Samples Page & Minimal Styling H | 3 |
+| Render Books Page & Minimal Styling| H | 3 |
+| Render Books Detail Page & Minimal Styling| H | 3 |
+| Render New Books Page  & Minimal Styling | H | 2 |
+| Render Edit Books Page & Minimal Styling | H | 2 |
+| Style Home Page, Projects Page, Writing Page | H | 3 |
+| Style Books Page and child pages | H | 3 |
+| Style Books Detail Page | H | 3 |
+| Style Book Edit Page & New Book Page | H | 3 |
+| Media Queries | H | 2 |
+| Deployment | H | 1 |
+| TOTAL | -- | 49 |
 
+## Post-MVP
+<ul>
+  <li>Incorporate users and authentication</li>
+</ul>
