@@ -42,7 +42,7 @@ John Robison's Portfolio is a full-stack application with the goal of effectivel
   </ul>
 </ul>
 
-The greatest challenges I expect to face will be using Ruby on Rails; we only just started learning rails, so I admit I have certain trepidations about building a full-stack application with this framework. That being said, I'm super excited to use this project as an opportunity to really understand the nuts and bolts of rails and determine exactly how I can most effectively use this tool to process data!
+The greatest challenges I expect to face will be using Ruby on Rails; we only just started learning rails, so I admit I have certain trepidations about building a full-stack application with this framework. That being said, I'm super excited to use this project as an opportunity to really understand the nuts and bolts of rails and determine exactly how I can most effectively use this tool to process data! Within this constraint, I also think time may pose a significant issue. With only four days to actually build this application, it isn't enough to simply "work harder." Rather, I will need to be <em>meticulous</em> in my planning to ensure no moment is wasted.
 
 ## MVP
 
