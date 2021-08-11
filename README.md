@@ -16,7 +16,7 @@ John Robison's Portfolio is a full-stack application with the goal of effectivel
       <li>Velocity</li>
       <li>Drone Wars</li>
     </ul>
-    <li>Writing Samples Screen: List key relevant writing samples to demonstrate my ability to communicate complex ideas</li>
+    <li>Selected Writing Samples Screen: List key relevant writing samples to demonstrate my ability to communicate complex ideas</li>
     <ul>
       <li>On the Origin of Evil</li>
       <li>Prime Numbers and Post-Modern Art</li>
@@ -107,4 +107,8 @@ The front-end will have the following minimal functionality:
 </ul>
 
 
+### Libraries and Dependencies
+| Syntax | Description |
+| ------ | ----------- |
+| Header | Title       |
 
