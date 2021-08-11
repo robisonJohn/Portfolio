@@ -116,3 +116,22 @@ The front-end will have the following minimal functionality:
 | Axios | A standard library used to import data from an API |
 | Rails | A web-application framework which allows you to create a database using the MVC pattern |
 
+## Client (Front End)
+### Wireframe
+
+### Component Tree
+
+### Component Architecture
+
+## Server (Back End)
+### ERD Model
+
+## Time Estimates
+| Task | Priority | Estimated Time | 
+| ------ | ----------- | --------- | 
+| N | N | N |
+| N | N | N |
+| N | N | N |
+| N | N | N |
+| N | N | N |
+
