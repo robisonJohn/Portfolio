@@ -27,6 +27,6 @@ The front-end will have the following minimal functionality:
   <li>Have a working, interactive <strong>React</strong> app, built using npx create-react-app</li>
   <li>Consume data from <strong>Ruby on Rails API</strong> and render this data within the components.</li>
   <li>Utilize <strong>React Router</strong> for client-side routing</li>
-  <li>Demonstrate Full CRUD actions (`index`, ` show `, create, update, and delete) on the front end.</li>
+  <li>Demonstrate Full CRUD actions (index, show, create, update, and delete) on the front end.</li>
 </ul>
 
