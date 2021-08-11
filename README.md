@@ -66,3 +66,10 @@ The front-end will have the following minimal functionality:
   <li>Use effective and safe <strong>branching and merging</strong> processes.</li>
 </ul>
 
+### Goals
+<ul>
+  <li>Successfully render my home screen, projects screen, writing samples screen, favorite books screens (there will be one main screen and at least seven screens that result from filtering books by category), examine books screen, add books screen, and edit books screen.</li>
+  <li>Successfully incorporate CRUD for the Book Screens</li>
+  <li>Utilize React-Bootstrap to create a smooth, minimalist design</li>
+  <li>Full functional and deployed front end and back end</li>
+</ul>
